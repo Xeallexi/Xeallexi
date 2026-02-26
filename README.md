@@ -13,9 +13,12 @@
   <p style="font-size: 12px; color: #1D1D1F; font-weight: 600; letter-spacing: 1px;">TECH STACK</p>
   <p>
     <img src="https://img.shields.io/badge/ROS2-F5F5F7?style=flat&logo=ros&logoColor=1D1D1F" alt="ROS2"/>
+    <img src="https://img.shields.io/badge/RobotStudio-F5F5F7?style=flat&logo=abb&logoColor=1D1D1F" alt="RobotStudio"/>
+    <img src="https://img.shields.io/badge/STM32-F5F5F7?style=flat&logo=stmicroelectronics&logoColor=1D1D1F" alt="STM32"/>
     <img src="https://img.shields.io/badge/Python-F5F5F7?style=flat&logo=python&logoColor=1D1D1F" alt="Python"/>
     <img src="https://img.shields.io/badge/C-F5F5F7?style=flat&logo=c&logoColor=1D1D1F" alt="C"/>
     <img src="https://img.shields.io/badge/Ubuntu-F5F5F7?style=flat&logo=ubuntu&logoColor=1D1D1F" alt="Ubuntu"/>
+    <img src="https://img.shields.io/badge/Kingview-F5F5F7?style=flat&logo=docsdotrs&logoColor=1D1D1F" alt="Kingview"/>
     <img src="https://img.shields.io/badge/HTML5-F5F5F7?style=flat&logo=html5&logoColor=1D1D1F" alt="HTML5"/>
   </p>
 
