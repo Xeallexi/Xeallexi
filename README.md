@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Xeallex</h1>
-  <p><i>"循此苦旅，终抵群星。"</i></p>
+  <p><i>"循此苦旅，终抵群星"</i></p>
 </div>
 
 ---
@@ -21,7 +21,4 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xeallexi&show_icons=true&theme=transparent&hide_border=true" alt="Xeallex's GitHub Stats" />
-</p>
+
