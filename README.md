@@ -1,36 +1,34 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FF79C6&vCenter=true&center=true&width=500&lines=Hi,+I'm+Xeallex!;Robotics+Engineer;ROS2+%26+Python;JLPT+N2+Candidate" alt="Typing SVG" />
+  <br><br>
 
-  <br>
-
-  <h2><img src="https://img.shields.io/badge/-⚡_CORE_TECH-282a36?style=for-the-badge&logo=codeforces&logoColor=8BE9FD" alt="Tech Stack Headline" /></h2>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Robotics-ROS2_&_Ubuntu-282a36?style=flat-square&logo=ros&logoColor=BD93F9" />
-    <img src="https://img.shields.io/badge/Languages-Python_&_C-282a36?style=flat-square&logo=python&logoColor=FF79C6" />
-    <img src="https://img.shields.io/badge/Web-Dev_&_HTML5-282a36?style=flat-square&logo=html5&logoColor=8BE9FD" />
+  <h1 style="font-weight: 800; color: #1D1D1F; border-bottom: none;">Hello. I'm Xeallex.</h1>
+  <p style="font-size: 16px; color: #86868b; font-weight: 500;">
+    Robotics Engineering · ROS2 & Python · JLPT N2 Candidate
   </p>
 
-  <br>
+  <br><br>
 
-  <h2><img src="https://img.shields.io/badge/-🌐_CONNECT-282a36?style=for-the-badge&logo=gumtree&logoColor=FFB86C" alt="Connect Headline" /></h2>
-  
+  <p style="font-size: 12px; color: #1D1D1F; font-weight: 600; letter-spacing: 1px;">TECH STACK</p>
   <p>
-    <a href="https://881811.xyz"><img src="https://img.shields.io/badge/My_Diary-881811.xyz-22314E?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-    <a href="mailto:xeallex@163.com"><img src="https://img.shields.io/badge/Email-xeallex@163.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://x.com/Xeallexi"><img src="https://img.shields.io/badge/X-@Xeallexi-000000?style=flat-square&logo=x&logoColor=white" /></a>
-    <a href="https://space.bilibili.com/93840291"><img src="https://img.shields.io/badge/Bilibili-Xeallex-fb7299?style=flat-square&logo=bilibili&logoColor=white" /></a>
-    <a href="https://osu.ppy.sh/users/33947751"><img src="https://img.shields.io/badge/osu!-Xeallex-ff66aa?style=flat-square&logo=osu&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/ROS2-F5F5F7?style=flat&logo=ros&logoColor=1D1D1F" alt="ROS2"/>
+    <img src="https://img.shields.io/badge/Python-F5F5F7?style=flat&logo=python&logoColor=1D1D1F" alt="Python"/>
+    <img src="https://img.shields.io/badge/C-F5F5F7?style=flat&logo=c&logoColor=1D1D1F" alt="C"/>
+    <img src="https://img.shields.io/badge/Ubuntu-F5F5F7?style=flat&logo=ubuntu&logoColor=1D1D1F" alt="Ubuntu"/>
+    <img src="https://img.shields.io/badge/HTML5-F5F5F7?style=flat&logo=html5&logoColor=1D1D1F" alt="HTML5"/>
   </p>
+
+  <br><br>
+
+  <p style="font-size: 12px; color: #1D1D1F; font-weight: 600; letter-spacing: 1px;">CONNECT</p>
+  <p>
+    <a href="https://881811.xyz"><img src="https://img.shields.io/badge/Website-1D1D1F?style=flat&logo=safari&logoColor=white" alt="Website"/></a>
+    <a href="mailto:xeallex@163.com"><img src="https://img.shields.io/badge/Email-1D1D1F?style=flat&logo=minutemailer&logoColor=white" alt="Email"/></a>
+    <a href="https://x.com/Xeallexi"><img src="https://img.shields.io/badge/X-1D1D1F?style=flat&logo=x&logoColor=white" alt="X"/></a>
+    <a href="https://space.bilibili.com/93840291"><img src="https://img.shields.io/badge/Bilibili-1D1D1F?style=flat&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
+    <a href="https://osu.ppy.sh/users/33947751"><img src="https://img.shields.io/badge/osu!-1D1D1F?style=flat&logo=osu&logoColor=white" alt="osu!"/></a>
+  </p>
+
+  <br><br>
 
 </div>
-
----
-
-### 🐍 CONTRIBUTIONS SNAKE
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xeallexi/Xeallexi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xeallexi/Xeallexi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Xeallexi/Xeallexi/output/github-contribution-grid-snake.svg">
-</picture>
