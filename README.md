@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF79C6,8BE9FD&height=200&section=header&text=Hello,%20I'm%20Xeallex&fontSize=45&fontAlignY=38&desc=Robotics%20Engineering%20|%20ROS2%20|%20Python&descAlignY=58&descSize=15&fontColor=ffffff" width="100%" />
-
 <div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FF79C6&vCenter=true&center=true&width=500&lines=Hi,+I'm+Xeallex!;Robotics+Engineer;ROS2+%26+Python;JLPT+N2+Candidate" alt="Typing SVG" />
 
   <br>
 
@@ -19,13 +19,18 @@
   <p>
     <a href="https://881811.xyz"><img src="https://img.shields.io/badge/My_Diary-881811.xyz-22314E?style=flat-square&logo=googlechrome&logoColor=white" /></a>
     <a href="mailto:xeallex@163.com"><img src="https://img.shields.io/badge/Email-xeallex@163.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://x.com/Xeallexi"><img src="https://img.shields.io/badge/X-@Xeallexi-000000?style=flat-square&logo=x&white" /></a>
+    <a href="https://x.com/Xeallexi"><img src="https://img.shields.io/badge/X-@Xeallexi-000000?style=flat-square&logo=x&logoColor=white" /></a>
     <a href="https://space.bilibili.com/93840291"><img src="https://img.shields.io/badge/Bilibili-Xeallex-fb7299?style=flat-square&logo=bilibili&logoColor=white" /></a>
     <a href="https://osu.ppy.sh/users/33947751"><img src="https://img.shields.io/badge/osu!-Xeallex-ff66aa?style=flat-square&logo=osu&logoColor=white" /></a>
   </p>
 
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Xeallexi&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="60%" />
-
 </div>
+
+---
+
+### 🐍 CONTRIBUTIONS SNAKE
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xeallexi/Xeallexi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xeallexi/Xeallexi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Xeallexi/Xeallexi/output/github-contribution-grid-snake.svg">
+</picture>
