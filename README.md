@@ -1,34 +1,31 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF79C6,8BE9FD&height=200&section=header&text=Hello,%20I'm%20Xeallex&fontSize=45&fontAlignY=38&desc=Robotics%20Engineering%20|%20ROS2%20|%20Python&descAlignY=58&descSize=15&fontColor=ffffff" width="100%" />
+
 <div align="center">
 
-  <br><br>
+  <br>
 
-  <h1 style="font-weight: 800; color: #1D1D1F; border-bottom: none;">Hello. I'm Xeallex.</h1>
-  <p style="font-size: 16px; color: #86868b; font-weight: 500;">
-    Robotics Engineering · ROS2 & Python · JLPT N2 Candidate
-  </p>
-
-  <br><br>
-
-  <p style="font-size: 12px; color: #1D1D1F; font-weight: 600; letter-spacing: 1px;">TECH STACK</p>
+  <h2><img src="https://img.shields.io/badge/-⚡_CORE_TECH-282a36?style=for-the-badge&logo=codeforces&logoColor=8BE9FD" alt="Tech Stack Headline" /></h2>
+  
   <p>
-    <img src="https://img.shields.io/badge/ROS2-F5F5F7?style=flat&logo=ros&logoColor=1D1D1F" alt="ROS2"/>
-    <img src="https://img.shields.io/badge/Python-F5F5F7?style=flat&logo=python&logoColor=1D1D1F" alt="Python"/>
-    <img src="https://img.shields.io/badge/C-F5F5F7?style=flat&logo=c&logoColor=1D1D1F" alt="C"/>
-    <img src="https://img.shields.io/badge/Ubuntu-F5F5F7?style=flat&logo=ubuntu&logoColor=1D1D1F" alt="Ubuntu"/>
-    <img src="https://img.shields.io/badge/HTML5-F5F5F7?style=flat&logo=html5&logoColor=1D1D1F" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/Robotics-ROS2_&_Ubuntu-282a36?style=flat-square&logo=ros&logoColor=BD93F9" />
+    <img src="https://img.shields.io/badge/Languages-Python_&_C-282a36?style=flat-square&logo=python&logoColor=FF79C6" />
+    <img src="https://img.shields.io/badge/Web-Dev_&_HTML5-282a36?style=flat-square&logo=html5&logoColor=8BE9FD" />
   </p>
 
-  <br><br>
+  <br>
 
-  <p style="font-size: 12px; color: #1D1D1F; font-weight: 600; letter-spacing: 1px;">CONNECT</p>
+  <h2><img src="https://img.shields.io/badge/-🌐_CONNECT-282a36?style=for-the-badge&logo=gumtree&logoColor=FFB86C" alt="Connect Headline" /></h2>
+  
   <p>
-    <a href="https://881811.xyz"><img src="https://img.shields.io/badge/Website-1D1D1F?style=flat&logo=safari&logoColor=white" alt="Website"/></a>
-    <a href="mailto:xeallex@163.com"><img src="https://img.shields.io/badge/Email-1D1D1F?style=flat&logo=minutemailer&logoColor=white" alt="Email"/></a>
-    <a href="https://x.com/Xeallexi"><img src="https://img.shields.io/badge/X-1D1D1F?style=flat&logo=x&logoColor=white" alt="X"/></a>
-    <a href="https://space.bilibili.com/93840291"><img src="https://img.shields.io/badge/Bilibili-1D1D1F?style=flat&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
-    <a href="https://osu.ppy.sh/users/33947751"><img src="https://img.shields.io/badge/osu!-1D1D1F?style=flat&logo=osu&logoColor=white" alt="osu!"/></a>
+    <a href="https://881811.xyz"><img src="https://img.shields.io/badge/My_Diary-881811.xyz-22314E?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+    <a href="mailto:xeallex@163.com"><img src="https://img.shields.io/badge/Email-xeallex@163.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://x.com/Xeallexi"><img src="https://img.shields.io/badge/X-@Xeallexi-000000?style=flat-square&logo=x&white" /></a>
+    <a href="https://space.bilibili.com/93840291"><img src="https://img.shields.io/badge/Bilibili-Xeallex-fb7299?style=flat-square&logo=bilibili&logoColor=white" /></a>
+    <a href="https://osu.ppy.sh/users/33947751"><img src="https://img.shields.io/badge/osu!-Xeallex-ff66aa?style=flat-square&logo=osu&logoColor=white" /></a>
   </p>
 
-  <br><br>
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Xeallexi&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="60%" />
 
 </div>
