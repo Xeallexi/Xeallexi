@@ -1,18 +1,23 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=FF79C6&center=true&vCenter=true&width=435&lines=Hi,+I'm+Xeallex;Robotics+Engineering;ROS2+%26+Python;Per+aspera+ad+astra." alt="Typing SVG" />
-</div>
 
-<br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&letterSpacing=-1&duration=4000&pause=1500&color=1D1D1F&center=true&vCenter=true&width=600&height=100&lines=Hello.+I'm+Xeallex.;Robotics+Engineering.;Per+aspera+ad+astra." alt="Headline" />
 
-<div align="center">
-  <a href="https://881811.xyz"><img src="https://img.shields.io/badge/-My_Diary-282a36?style=flat-square&logo=Read.cv&logoColor=FF79C6" alt="Website"/></a>
-  <a href="https://space.bilibili.com/93840291"><img src="https://img.shields.io/badge/-Bilibili-282a36?style=flat-square&logo=bilibili&logoColor=FF79C6" alt="Bilibili"/></a>
-  <a href="https://osu.ppy.sh/users/33947751"><img src="https://img.shields.io/badge/-osu!-282a36?style=flat-square&logo=osu&logoColor=FF79C6" alt="osu!"/></a>
-</div>
+  <p style="font-size: 15px; color: #86868b;">
+    Junior Student @ Automation · <b>ROS2</b> & <b>Python</b> · JLPT N2 Candidate
+  </p>
 
-<br/>
+  <br><br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xeallexi&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeallexi&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" width="48%" />
+  <img src="https://skillicons.dev/icons?i=ros,python,c,ubuntu,html,linux,git&theme=light&perline=8" alt="Tech Stack" />
+
+  <br><br><br>
+
+  <a href="https://881811.xyz"><img src="https://img.shields.io/badge/Website-881811.xyz-1D1D1F?style=flat&logo=safari&logoColor=white&labelColor=1D1D1F" alt="Website"/></a>&nbsp;
+  <a href="https://space.bilibili.com/93840291"><img src="https://img.shields.io/badge/Bilibili-Xeallex-1D1D1F?style=flat&logo=bilibili&logoColor=white&labelColor=1D1D1F" alt="Bilibili"/></a>&nbsp;
+  <a href="https://osu.ppy.sh/users/33947751"><img src="https://img.shields.io/badge/osu!-Xeallex-1D1D1F?style=flat&logo=osu&logoColor=white&labelColor=1D1D1F" alt="osu!"/></a>
+
+  <br><br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Xeallexi&show_icons=true&hide_border=true&title_color=1D1D1F&icon_color=1D1D1F&text_color=86868b&bg_color=ffffff00" height="150" />
+
 </div>
