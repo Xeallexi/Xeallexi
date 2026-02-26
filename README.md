@@ -20,7 +20,7 @@
 
 ### 🔗 Find Me Online
 
-[![Website](https://img.shields.io/badge/Diary_&_Projects-881811.xyz-22314E?style=flat-square&logo=googlechrome&logoColor=white)](https://881811.xyz)
+[![Website](https://img.shields.io/badge/Mydomin-881811.xyz-22314E?style=flat-square&logo=googlechrome&logoColor=white)](https://881811.xyz)
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-Xeallex-fb7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/93840291)
 
