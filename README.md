@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p align="center">
-    <img src="https://img.shields.io/badge/-%F0%9F%91%8B_Hi,_I'm_Xeallex-000000?style=for-the-badge&logo=apple&logoColor=white" />
+
   </p>
   <h1 align="center" style="border-bottom: none">循此苦旅，终抵群星</h1>
   <br />
