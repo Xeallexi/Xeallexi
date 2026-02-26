@@ -1,33 +1,35 @@
 <div align="center">
 
-  <br><br><br><br>
+  <br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&letterSpacing=-1.5&duration=3000&pause=2000&color=1D1D1F&center=true&vCenter=true&width=500&height=70&lines=Hello.+I'm+Xeallex.;Hello.+I'm+Xeallexi." alt="Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&letterSpacing=-1&duration=2500&pause=2000&color=1D1D1F&center=true&vCenter=true&width=500&height=60&lines=Hello.%20I'm%20Xeallex.;Hello.%20I'm%20Xeallexi." alt="Hello. I'm Xeallex(i)." />
 
-  <p style="font-size: 18px; color: #86868b; font-weight: 400; letter-spacing: -0.2px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-    Robotics Engineering · ROS2 & Python · JLPT N2
-  </p>
-
-  <br><br><br>
-
-  <p style="font-size: 11px; color: #86868b; font-weight: 600; letter-spacing: 2px;">TECH STACK</p>
-  <p>
-    <img src="https://img.shields.io/static/v1?label=&message=ROS2&color=ffffff&style=flat-square&logo=ros&logoColor=1D1D1F" /> &nbsp;
-    <img src="https://img.shields.io/static/v1?label=&message=Python&color=ffffff&style=flat-square&logo=python&logoColor=1D1D1F" /> &nbsp;
-    <img src="https://img.shields.io/static/v1?label=&message=Ubuntu&color=ffffff&style=flat-square&logo=ubuntu&logoColor=1D1D1F" /> &nbsp;
-    <img src="https://img.shields.io/static/v1?label=&message=C&color=ffffff&style=flat-square&logo=c&logoColor=1D1D1F" />
+  <p style="font-size: 16px; color: #86868b; font-weight: 500;">
+    Robotics Engineering · ROS2 & Python · JLPT N2 Candidate
   </p>
 
   <br><br>
 
-  <p style="font-size: 11px; color: #86868b; font-weight: 600; letter-spacing: 2px;">CONNECT</p>
+  <p style="font-size: 12px; color: #1D1D1F; font-weight: 600; letter-spacing: 1px;">TECH STACK</p>
   <p>
-    <a href="https://881811.xyz" style="text-decoration: none; color: #0066cc; font-size: 14px; font-weight: 500;">Website</a> &nbsp; <span style="color: #d2d2d7;">|</span> &nbsp;
-    <a href="mailto:xeallex@163.com" style="text-decoration: none; color: #0066cc; font-size: 14px; font-weight: 500;">Email</a> &nbsp; <span style="color: #d2d2d7;">|</span> &nbsp;
-    <a href="https://x.com/Xeallexi" style="text-decoration: none; color: #0066cc; font-size: 14px; font-weight: 500;">X (Twitter)</a> &nbsp; <span style="color: #d2d2d7;">|</span> &nbsp;
-    <a href="https://space.bilibili.com/93840291" style="text-decoration: none; color: #0066cc; font-size: 14px; font-weight: 500;">Bilibili</a>
+    <img src="https://img.shields.io/badge/ROS2-F5F5F7?style=flat&logo=ros&logoColor=1D1D1F" alt="ROS2"/>
+    <img src="https://img.shields.io/badge/Python-F5F5F7?style=flat&logo=python&logoColor=1D1D1F" alt="Python"/>
+    <img src="https://img.shields.io/badge/C-F5F5F7?style=flat&logo=c&logoColor=1D1D1F" alt="C"/>
+    <img src="https://img.shields.io/badge/Ubuntu-F5F5F7?style=flat&logo=ubuntu&logoColor=1D1D1F" alt="Ubuntu"/>
+    <img src="https://img.shields.io/badge/HTML5-F5F5F7?style=flat&logo=html5&logoColor=1D1D1F" alt="HTML5"/>
   </p>
 
-  <br><br><br><br>
+  <br><br>
+
+  <p style="font-size: 12px; color: #1D1D1F; font-weight: 600; letter-spacing: 1px;">CONNECT</p>
+  <p>
+    <a href="https://881811.xyz"><img src="https://img.shields.io/badge/Website-1D1D1F?style=flat&logo=safari&logoColor=white" alt="Website"/></a>
+    <a href="mailto:xeallex@163.com"><img src="https://img.shields.io/badge/Email-1D1D1F?style=flat&logo=minutemailer&logoColor=white" alt="Email"/></a>
+    <a href="https://x.com/Xeallexi"><img src="https://img.shields.io/badge/X-1D1D1F?style=flat&logo=x&logoColor=white" alt="X"/></a>
+    <a href="https://space.bilibili.com/93840291"><img src="https://img.shields.io/badge/Bilibili-1D1D1F?style=flat&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
+    <a href="https://osu.ppy.sh/users/33947751"><img src="https://img.shields.io/badge/osu!-1D1D1F?style=flat&logo=osu&logoColor=white" alt="osu!"/></a>
+  </p>
+
+  <br><br>
 
 </div>
