@@ -1,23 +1,32 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&letterSpacing=-1&duration=4000&pause=1500&color=1D1D1F&center=true&vCenter=true&width=600&height=100&lines=Hello.+I'm+Xeallex.;Robotics+Engineering.;Per+aspera+ad+astra." alt="Headline" />
+  <br><br>
 
-  <p style="font-size: 15px; color: #86868b;">
-    Junior Student @ Automation · <b>ROS2</b> & <b>Python</b> · JLPT N2 Candidate
+  <h1 style="font-weight: 800; color: #1D1D1F; border-bottom: none;">Hello. I'm Xeallex.</h1>
+  <p style="font-size: 16px; color: #86868b; font-weight: 500;">
+    Robotics Engineering · ROS2 & Python · JLPT N2 Candidate
   </p>
 
   <br><br>
 
-  <img src="https://skillicons.dev/icons?i=ros,python,c,ubuntu,html,linux,git&theme=light&perline=8" alt="Tech Stack" />
+  <p style="font-size: 12px; color: #1D1D1F; font-weight: 600; letter-spacing: 1px;">TECH STACK</p>
+  <p>
+    <img src="https://img.shields.io/badge/ROS2-F5F5F7?style=flat&logo=ros&logoColor=1D1D1F" alt="ROS2"/>
+    <img src="https://img.shields.io/badge/Python-F5F5F7?style=flat&logo=python&logoColor=1D1D1F" alt="Python"/>
+    <img src="https://img.shields.io/badge/C-F5F5F7?style=flat&logo=c&logoColor=1D1D1F" alt="C"/>
+    <img src="https://img.shields.io/badge/Ubuntu-F5F5F7?style=flat&logo=ubuntu&logoColor=1D1D1F" alt="Ubuntu"/>
+    <img src="https://img.shields.io/badge/HTML5-F5F5F7?style=flat&logo=html5&logoColor=1D1D1F" alt="HTML5"/>
+  </p>
 
-  <br><br><br>
+  <br><br>
 
-  <a href="https://881811.xyz"><img src="https://img.shields.io/badge/Website-881811.xyz-1D1D1F?style=flat&logo=safari&logoColor=white&labelColor=1D1D1F" alt="Website"/></a>&nbsp;
-  <a href="https://space.bilibili.com/93840291"><img src="https://img.shields.io/badge/Bilibili-Xeallex-1D1D1F?style=flat&logo=bilibili&logoColor=white&labelColor=1D1D1F" alt="Bilibili"/></a>&nbsp;
-  <a href="https://osu.ppy.sh/users/33947751"><img src="https://img.shields.io/badge/osu!-Xeallex-1D1D1F?style=flat&logo=osu&logoColor=white&labelColor=1D1D1F" alt="osu!"/></a>
+  <p style="font-size: 12px; color: #1D1D1F; font-weight: 600; letter-spacing: 1px;">CONNECT</p>
+  <p>
+    <a href="https://881811.xyz"><img src="https://img.shields.io/badge/Website-1D1D1F?style=flat&logo=safari&logoColor=white" alt="Website"/></a>
+    <a href="https://space.bilibili.com/93840291"><img src="https://img.shields.io/badge/Bilibili-1D1D1F?style=flat&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
+    <a href="https://osu.ppy.sh/users/33947751"><img src="https://img.shields.io/badge/osu!-1D1D1F?style=flat&logo=osu&logoColor=white" alt="osu!"/></a>
+  </p>
 
-  <br><br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Xeallexi&show_icons=true&hide_border=true&title_color=1D1D1F&icon_color=1D1D1F&text_color=86868b&bg_color=ffffff00" height="150" />
+  <br><br>
 
 </div>
