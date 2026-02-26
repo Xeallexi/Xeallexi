@@ -1,37 +1,35 @@
-<img src="https://images.unsplash.com/photo-1557672172-298e090bd0f1?q=80&w=1200&auto=format&fit=crop" style="border-radius: 12px;" width="100%" alt="Aesthetic Banner">
+<div align="center">
 
-<br><br>
+  <br><br>
 
-<a href="https://github.com/Xeallexi">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Xeallexi&show_icons=true&hide_border=true&bg_color=00000000&title_color=89b4fa&text_color=bac2de&icon_color=f5c2e7" />
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&letterSpacing=-1&duration=2500&pause=2000&color=1D1D1F&center=true&vCenter=true&width=500&height=60&lines=Hello.%20I'm%20Xeallex.;Hello.%20I'm%20Xeallexi." alt="Hello. I'm Xeallex(i)." />
 
-<h1 style="border-bottom: none; color: #f5c2e7;">✦ X E A L L E X</h1>
-<p><i>"循此苦旅，终抵群星。"</i></p>
+  <p style="font-size: 16px; color: #86868b; font-weight: 500;">
+    Robotics Engineering · ROS2 & Python · JLPT N2 Candidate
+  </p>
 
-<p>
-  <b>🤖 Robotics Eng.</b> at Automation<br>
-  <b>🎯 Focus:</b> ROS2, Python, Control Systems<br>
-  <b>🏆 Goals:</b> 2026 Blue Bridge Cup & JLPT N2
-</p>
+  <br><br>
 
-<br>
+  <p style="font-size: 12px; color: #1D1D1F; font-weight: 600; letter-spacing: 1px;">TECH STACK</p>
+  <p>
+    <img src="https://img.shields.io/badge/ROS2-F5F5F7?style=flat&logo=ros&logoColor=1D1D1F" alt="ROS2"/>
+    <img src="https://img.shields.io/badge/Python-F5F5F7?style=flat&logo=python&logoColor=1D1D1F" alt="Python"/>
+    <img src="https://img.shields.io/badge/C-F5F5F7?style=flat&logo=c&logoColor=1D1D1F" alt="C"/>
+    <img src="https://img.shields.io/badge/Ubuntu-F5F5F7?style=flat&logo=ubuntu&logoColor=1D1D1F" alt="Ubuntu"/>
+    <img src="https://img.shields.io/badge/HTML5-F5F5F7?style=flat&logo=html5&logoColor=1D1D1F" alt="HTML5"/>
+  </p>
 
-<h3 style="color: #89b4fa;">✦ TECH NEXUS</h3>
-<p>
-  <img src="https://img.shields.io/badge/ROS2-1e1e2e?style=for-the-badge&logo=ros&logoColor=f5e0dc" />
-  <img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=89b4fa" />
-  <img src="https://img.shields.io/badge/C-1e1e2e?style=for-the-badge&logo=c&logoColor=f38ba8" />
-  <img src="https://img.shields.io/badge/Ubuntu-1e1e2e?style=for-the-badge&logo=ubuntu&logoColor=fab387" />
-</p>
+  <br><br>
 
-<br>
+  <p style="font-size: 12px; color: #1D1D1F; font-weight: 600; letter-spacing: 1px;">CONNECT</p>
+  <p>
+    <a href="https://881811.xyz"><img src="https://img.shields.io/badge/Website-1D1D1F?style=flat&logo=safari&logoColor=white" alt="Website"/></a>
+    <a href="mailto:xeallex@163.com"><img src="https://img.shields.io/badge/Email-1D1D1F?style=flat&logo=minutemailer&logoColor=white" alt="Email"/></a>
+    <a href="https://x.com/Xeallexi"><img src="https://img.shields.io/badge/X-1D1D1F?style=flat&logo=x&logoColor=white" alt="X"/></a>
+    <a href="https://space.bilibili.com/93840291"><img src="https://img.shields.io/badge/Bilibili-1D1D1F?style=flat&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
+    <a href="https://osu.ppy.sh/users/33947751"><img src="https://img.shields.io/badge/osu!-1D1D1F?style=flat&logo=osu&logoColor=white" alt="osu!"/></a>
+  </p>
 
-<h3 style="color: #f5c2e7;">✦ COMM LINK</h3>
-<p>
-  <a href="https://881811.xyz"><img src="https://img.shields.io/badge/Diary-881811.xyz-1e1e2e?style=for-the-badge&logo=safari&logoColor=cba6f7" /></a><br>
-  <a href="https://space.bilibili.com/93840291"><img src="https://img.shields.io/badge/Bilibili-Xeallex-1e1e2e?style=for-the-badge&logo=bilibili&logoColor=f5c2e7" /></a><br>
-  <a href="https://osu.ppy.sh/users/33947751"><img src="https://img.shields.io/badge/osu!-Xeallex-1e1e2e?style=for-the-badge&logo=osu&logoColor=f5c2e7" /></a><br>
-  <a href="mailto:xeallex@163.com"><img src="https://img.shields.io/badge/Mail-xeallex@163.com-1e1e2e?style=for-the-badge&logo=minutemailer&logoColor=89b4fa" /></a><br>
-  <a href="https://x.com/Xeallexi"><img src="https://img.shields.io/badge/X-@Xeallexi-1e1e2e?style=for-the-badge&logo=x&logoColor=bac2de" /></a>
-</p>
+  <br><br>
+
+</div>
