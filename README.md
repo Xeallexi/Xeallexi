@@ -23,6 +23,8 @@
   <p style="font-size: 12px; color: #1D1D1F; font-weight: 600; letter-spacing: 1px;">CONNECT</p>
   <p>
     <a href="https://881811.xyz"><img src="https://img.shields.io/badge/Website-1D1D1F?style=flat&logo=safari&logoColor=white" alt="Website"/></a>
+    <a href="mailto:xeallex@163.com"><img src="https://img.shields.io/badge/Email-1D1D1F?style=flat&logo=minutemailer&logoColor=white" alt="Email"/></a>
+    <a href="https://x.com/Xeallexi"><img src="https://img.shields.io/badge/X-1D1D1F?style=flat&logo=x&logoColor=white" alt="X"/></a>
     <a href="https://space.bilibili.com/93840291"><img src="https://img.shields.io/badge/Bilibili-1D1D1F?style=flat&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
     <a href="https://osu.ppy.sh/users/33947751"><img src="https://img.shields.io/badge/osu!-1D1D1F?style=flat&logo=osu&logoColor=white" alt="osu!"/></a>
   </p>
