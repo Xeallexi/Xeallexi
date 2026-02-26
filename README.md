@@ -1,34 +1,33 @@
 <div align="center">
 
-  <br><br><br>
+  <br><br><br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=48&letterSpacing=-2&duration=3000&pause=2000&color=1D1D1F&center=true&vCenter=true&width=600&height=80&lines=Hello.+I'm+Xeallex.;Hello.+I'm+Xeallexi." alt="Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&letterSpacing=-1.5&duration=3000&pause=2000&color=1D1D1F&center=true&vCenter=true&width=500&height=70&lines=Hello.+I'm+Xeallex.;Hello.+I'm+Xeallexi." alt="Headline" />
 
-  <p style="font-size: 20px; color: #86868b; font-weight: 400; letter-spacing: -0.5px;">
-    Robotics Engineering Student & Developer
+  <p style="font-size: 18px; color: #86868b; font-weight: 400; letter-spacing: -0.2px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+    Robotics Engineering · ROS2 & Python · JLPT N2
   </p>
 
-  <br>
+  <br><br><br>
 
+  <p style="font-size: 11px; color: #86868b; font-weight: 600; letter-spacing: 2px;">TECH STACK</p>
   <p>
-    <img src="https://img.shields.io/badge/ROS2-F5F5F7?style=for-the-badge&logo=ros&logoColor=1D1D1F" />
-    <img src="https://img.shields.io/badge/Python-F5F5F7?style=for-the-badge&logo=python&logoColor=1D1D1F" />
-    <img src="https://img.shields.io/badge/Ubuntu-F5F5F7?style=for-the-badge&logo=ubuntu&logoColor=1D1D1F" />
+    <img src="https://img.shields.io/static/v1?label=&message=ROS2&color=ffffff&style=flat-square&logo=ros&logoColor=1D1D1F" /> &nbsp;
+    <img src="https://img.shields.io/static/v1?label=&message=Python&color=ffffff&style=flat-square&logo=python&logoColor=1D1D1F" /> &nbsp;
+    <img src="https://img.shields.io/static/v1?label=&message=Ubuntu&color=ffffff&style=flat-square&logo=ubuntu&logoColor=1D1D1F" /> &nbsp;
+    <img src="https://img.shields.io/static/v1?label=&message=C&color=ffffff&style=flat-square&logo=c&logoColor=1D1D1F" />
   </p>
 
   <br><br>
 
+  <p style="font-size: 11px; color: #86868b; font-weight: 600; letter-spacing: 2px;">CONNECT</p>
   <p>
-    <a href="https://881811.xyz"><img src="https://img.shields.io/badge/Website-ffffff?style=flat&logo=safari&logoColor=1D1D1F" /></a> &nbsp;
-    <a href="mailto:xeallex@163.com"><img src="https://img.shields.io/badge/Email-ffffff?style=flat&logo=minutemailer&logoColor=1D1D1F" /></a> &nbsp;
-    <a href="https://x.com/Xeallexi"><img src="https://img.shields.io/badge/X-ffffff?style=flat&logo=x&logoColor=1D1D1F" /></a> &nbsp;
-    <a href="https://space.bilibili.com/93840291"><img src="https://img.shields.io/badge/Bilibili-ffffff?style=flat&logo=bilibili&logoColor=1D1D1F" /></a>
+    <a href="https://881811.xyz" style="text-decoration: none; color: #0066cc; font-size: 14px; font-weight: 500;">Website</a> &nbsp; <span style="color: #d2d2d7;">|</span> &nbsp;
+    <a href="mailto:xeallex@163.com" style="text-decoration: none; color: #0066cc; font-size: 14px; font-weight: 500;">Email</a> &nbsp; <span style="color: #d2d2d7;">|</span> &nbsp;
+    <a href="https://x.com/Xeallexi" style="text-decoration: none; color: #0066cc; font-size: 14px; font-weight: 500;">X (Twitter)</a> &nbsp; <span style="color: #d2d2d7;">|</span> &nbsp;
+    <a href="https://space.bilibili.com/93840291" style="text-decoration: none; color: #0066cc; font-size: 14px; font-weight: 500;">Bilibili</a>
   </p>
 
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Xeallexi&show_icons=true&hide_border=true&title_color=1D1D1F&icon_color=1D1D1F&text_color=86868b&bg_color=ffffff00&font_family=Inter" width="450" />
-
-  <br><br><br>
+  <br><br><br><br>
 
 </div>
