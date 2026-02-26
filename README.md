@@ -1,34 +1,25 @@
 <div align="center">
-
-  <br><br>
-
-  <h1 style="font-weight: 800; color: #1D1D1F; border-bottom: none;">Hello. I'm Xeallex.</h1>
-  <p style="font-size: 16px; color: #86868b; font-weight: 500;">
-    Robotics Engineering · ROS2 & Python · JLPT N2 Candidate
+  
+  <br><br><br>
+  
+  <h1 style="color: #ff85b3; font-weight: 300; font-family: 'Courier New', Courier, monospace; letter-spacing: 2px;">
+    『 循此苦旅，终抵群星 』
+  </h1>
+  
+  <p style="color: #7ab8ff; font-family: 'Courier New', Courier, monospace; letter-spacing: 3px; font-size: 14px;">
+    ROBOTICS ENG. ✦ ROS2 ✦ PYTHON ✦ JLPT N2
   </p>
-
+  
   <br><br>
 
-  <p style="font-size: 12px; color: #1D1D1F; font-weight: 600; letter-spacing: 1px;">TECH STACK</p>
   <p>
-    <img src="https://img.shields.io/badge/ROS2-F5F5F7?style=flat&logo=ros&logoColor=1D1D1F" alt="ROS2"/>
-    <img src="https://img.shields.io/badge/Python-F5F5F7?style=flat&logo=python&logoColor=1D1D1F" alt="Python"/>
-    <img src="https://img.shields.io/badge/C-F5F5F7?style=flat&logo=c&logoColor=1D1D1F" alt="C"/>
-    <img src="https://img.shields.io/badge/Ubuntu-F5F5F7?style=flat&logo=ubuntu&logoColor=1D1D1F" alt="Ubuntu"/>
-    <img src="https://img.shields.io/badge/HTML5-F5F5F7?style=flat&logo=html5&logoColor=1D1D1F" alt="HTML5"/>
+    <a href="https://881811.xyz"><img src="https://img.shields.io/badge/DIARY-881811.xyz-ff85b3?style=flat-square" alt="Diary"/></a>
+    <a href="https://osu.ppy.sh/users/33947751"><img src="https://img.shields.io/badge/OSU!-Xeallex-ff9ebd?style=flat-square" alt="osu!"/></a>
+    <a href="https://space.bilibili.com/93840291"><img src="https://img.shields.io/badge/BILIBILI-Xeallex-ffb3c6?style=flat-square" alt="Bilibili"/></a>
+    <a href="https://x.com/Xeallexi"><img src="https://img.shields.io/badge/X-@Xeallexi-7ab8ff?style=flat-square" alt="X"/></a>
+    <a href="mailto:xeallex@163.com"><img src="https://img.shields.io/badge/MAIL-xeallex@163.com-9cc7ff?style=flat-square" alt="Email"/></a>
   </p>
 
-  <br><br>
-
-  <p style="font-size: 12px; color: #1D1D1F; font-weight: 600; letter-spacing: 1px;">CONNECT</p>
-  <p>
-    <a href="https://881811.xyz"><img src="https://img.shields.io/badge/Website-1D1D1F?style=flat&logo=safari&logoColor=white" alt="Website"/></a>
-    <a href="mailto:xeallex@163.com"><img src="https://img.shields.io/badge/Email-1D1D1F?style=flat&logo=minutemailer&logoColor=white" alt="Email"/></a>
-    <a href="https://x.com/Xeallexi"><img src="https://img.shields.io/badge/X-1D1D1F?style=flat&logo=x&logoColor=white" alt="X"/></a>
-    <a href="https://space.bilibili.com/93840291"><img src="https://img.shields.io/badge/Bilibili-1D1D1F?style=flat&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
-    <a href="https://osu.ppy.sh/users/33947751"><img src="https://img.shields.io/badge/osu!-1D1D1F?style=flat&logo=osu&logoColor=white" alt="osu!"/></a>
-  </p>
-
-  <br><br>
+  <br><br><br>
 
 </div>
